@@ -5,5 +5,8 @@ redis:
   auth:
     password: qwerty1234
 
+  abc:
+    def: "123"
+
 haha:
   xD: "1"
