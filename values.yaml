@@ -4,3 +4,6 @@ redis:
       save ""
   auth:
     password: qwerty1234
+
+haha:
+  xD
