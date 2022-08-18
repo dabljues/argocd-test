@@ -2,3 +2,5 @@ redis:
   commonConfiguration: |-
       appendonly no
       save ""
+  auth:
+    password: qwerty1234
