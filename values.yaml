@@ -1,0 +1,4 @@
+redis:
+  commonConfiguration: |-
+      appendonly yes
+      save ""
