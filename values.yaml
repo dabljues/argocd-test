@@ -6,4 +6,4 @@ redis:
     password: qwerty1234
 
 haha:
-  xD
+  xD: "1"
