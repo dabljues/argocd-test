@@ -1,4 +1,4 @@
 redis:
   commonConfiguration: |-
-      appendonly yes
+      appendonly no
       save ""
