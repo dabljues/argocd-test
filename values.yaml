@@ -1,6 +1,6 @@
 redis:
   commonConfiguration: |-
-      appendonly no
+      appendonly yes
       save ""
   auth:
     password: qwerty1234
